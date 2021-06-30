@@ -1,2 +1,2 @@
 # homework
-Java ee
+JAVA EE
